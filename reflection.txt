@@ -1,1 +1,1 @@
-
+I found that my solutions were a bit less concise than the given solutions. I believe this is mostly because of how unfamiliar I have become with Python. I also noticed that the Java solutions were pretty similar because I have more practice with Java. However, I did notice that all solutions were in fact very small, which made a lot of sense after finally finishing the assignment. 
